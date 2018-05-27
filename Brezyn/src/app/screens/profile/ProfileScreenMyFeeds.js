@@ -14,7 +14,7 @@ export default class ProfileScreenMyFeeds extends Component {
             <View>
                 <Grid>
                     {/* <ProfileHeaderComponent/> */}
-                    <ProfileTabPaneComponent/>
+                    {/* <ProfileTabPaneComponent/> */}
                     {/* TODO select from database later */}
                     {/* test */}
                     <Row style={{}}>
